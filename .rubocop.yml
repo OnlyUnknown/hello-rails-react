@@ -1,13 +1,13 @@
 AllCops:
   NewCops: enable
   Exclude:
-    - "db/**/*"
-    - "bin/*" 
-    - 'bin/**/*'
-    - "config/**/*"
-    - "Guardfile"
-    - "Rakefile"
-    - "node_modules/**/*"
+    - "my_new_rails_app/db/**/*"
+    - "my_new_rails_app/bin/*" 
+    - 'my_new_rails_app/bin/**/*'
+    - "my_new_rails_app/config/**/*"
+    - "my_new_rails_app/Guardfile"
+    - "my_new_rails_app/Rakefile"
+    - "my_new_rails_app/node_modules/**/*"
 
   DisplayCopNames: true
 
