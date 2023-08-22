@@ -131,14 +131,18 @@ Example command:
 
 Clone this repository to your desired folder:
 
-<!--
+
 Example commands:
 
 ```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+for the backend
+  git https://github.com/OnlyUnknown/hello-rails-react.git
+  cd my_new_rails_project
+  &&
+for the front end
+  git clone https://github.com/OnlyUnknown/hello-react-front-end.git
 ```
---->
+
 
 ### Install
 
@@ -150,6 +154,9 @@ Example command:
 ```sh
   cd my_new_rails_project
   bundle install
+  &&
+  the other project with 
+  npm install
 ```
 
 
@@ -207,7 +214,7 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-just setup
+just setup for front end react app
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
