@@ -204,8 +204,6 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Abdullah AL-khureif**
 
 - GitHub: [@githubhandle](https://github.com/OnlyUnknown)
@@ -216,7 +214,7 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-just setup
+just setup for front end react app
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
